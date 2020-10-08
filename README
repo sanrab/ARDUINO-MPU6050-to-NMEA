@@ -1,5 +1,8 @@
 Arduino program to generate NMEA sentences for opencpn from MPU 6050 data.
 
+// based on http://www.giuseppecaccavale.it/arduino/mpu-6050-gy-521-arduino-tutorial/
+// and https://kingtidesailing.blogspot.com/2015/09/how-to-make-nmea-0183-tilt-compensated.html
+
 Wiring:
 MPU 6050    ARDUINO UNO
 VCC -------> 3.3v
