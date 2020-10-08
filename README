@@ -1,1 +1,8 @@
-Arduino program to generate NMEA sentence for opencpn from MPU 6050 data
+Arduino program to generate NMEA sentences for opencpn from MPU 6050 data.
+
+Wiring:
+MPU 6050    ARDUINO UNO
+VCC -------> 3.3v
+GND -------> GND
+SCL -------> ANALOG A5
+SDA -------> ANALOG A4
