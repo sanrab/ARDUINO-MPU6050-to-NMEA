@@ -1,6 +1,8 @@
 
 
 // ARDUINO MPU6050 to NMEA pitch & roll per opencpn
+// based on http://www.giuseppecaccavale.it/arduino/mpu-6050-gy-521-arduino-tutorial/
+// and https://kingtidesailing.blogspot.com/2015/09/how-to-make-nmea-0183-tilt-compensated.html
 
 #include <SPI.h>
 #include <Wire.h>
